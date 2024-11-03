@@ -11,3 +11,13 @@ html,body{
 body{
   background-color: #000000;
 }
+
+.main{
+  font-family: helvetica;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: helvetica;
+  src: url(./fonts/Helvetica.woff2) format('woff2');
+}
